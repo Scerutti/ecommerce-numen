@@ -2,6 +2,9 @@ import React from 'react'
 
 export const Header = () => {
     return (
-        <div>Header</div>
+        <>
+            <h1>Header</h1>
+            <img src="../../assets/img/prueba.jpg" alt="img" />
+        </>
     )
 }
