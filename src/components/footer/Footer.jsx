@@ -5,9 +5,9 @@ export const Footer = () => {
         <>
             <div className="container">
                 <ul>
-                    <li>Elemento 1</li>
-                    <li>Elemento 2</li>
-                    <li>Elemento 3</li>
+                    <li>ELEMENTO 1</li>
+                    <li>ELEMENTO 2</li>
+                    <li>ELEMENTO 3</li>
                 </ul>
             </div>
         </>
