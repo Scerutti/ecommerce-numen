@@ -5,6 +5,7 @@ export const Header = () => {
         <>
             <h1>Header</h1>
             <h2> Bienvenido! </h2>
+            <h2> A nuestro Ecommerce </h2>
             <img src="../../assets/img/prueba.jpg" alt="img" />
         </>
     )
